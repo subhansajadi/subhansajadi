@@ -30,7 +30,7 @@ I'm a Mechatronics Engineering student and researcher at Toronto Metropolitan Un
 
 ### Websites
 
-- [subhansajadi.github.io](https://github.com/subhansajadi/subhansajadi.github.io): my portfolio, styled like a video game HUD
+- [subhansajadi.github.io](https://github.com/subhansajadi/subhansajadi.github.io): my portfolio, styled like an engineering drawing
 
 ### Where it started
 
